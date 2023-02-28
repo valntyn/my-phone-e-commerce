@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/my-phone-e-commerce/static/css/main.bc26b295.chunk.css",
+    "main.js": "/my-phone-e-commerce/static/js/main.b14f3f31.chunk.js",
+    "main.js.map": "/my-phone-e-commerce/static/js/main.b14f3f31.chunk.js.map",
+    "runtime-main.js": "/my-phone-e-commerce/static/js/runtime-main.29764a85.js",
+    "runtime-main.js.map": "/my-phone-e-commerce/static/js/runtime-main.29764a85.js.map",
+    "static/js/2.8591d189.chunk.js": "/my-phone-e-commerce/static/js/2.8591d189.chunk.js",
+    "static/js/2.8591d189.chunk.js.map": "/my-phone-e-commerce/static/js/2.8591d189.chunk.js.map",
+    "index.html": "/my-phone-e-commerce/index.html",
+    "static/css/main.bc26b295.chunk.css.map": "/my-phone-e-commerce/static/css/main.bc26b295.chunk.css.map",
+    "static/js/2.8591d189.chunk.js.LICENSE.txt": "/my-phone-e-commerce/static/js/2.8591d189.chunk.js.LICENSE.txt",
+    "static/media/OptionsOnProductPage.scss": "/my-phone-e-commerce/static/media/heart.18a4d0a4.svg",
+    "static/media/Navbar.scss": "/my-phone-e-commerce/static/media/Search.eb670dd9.svg",
+    "static/media/SortLink.scss": "/my-phone-e-commerce/static/media/cross.a7b1ced7.svg",
+    "static/media/Pagination.scss": "/my-phone-e-commerce/static/media/arr-right.7365d53e.svg",
+    "static/media/Footer.scss": "/my-phone-e-commerce/static/media/arr-up_black.3ffcd791.svg",
+    "static/media/Cart.scss": "/my-phone-e-commerce/static/media/cart-img.f0432bbd.svg",
+    "static/media/EmptyNotification.scss": "/my-phone-e-commerce/static/media/empty.9f884df3.svg",
+    "static/media/PageNotFound.scss": "/my-phone-e-commerce/static/media/error.e12b5e1c.svg",
+    "static/media/Favourites.scss": "/my-phone-e-commerce/static/media/favorite.04de1739.svg",
+    "static/media/App.scss": "/my-phone-e-commerce/static/media/mont-regular-webfont.b8a55ba6.woff",
+    "static/media/tie.dec0d118.svg": "/my-phone-e-commerce/static/media/tie.dec0d118.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.29764a85.js",
+    "static/js/2.8591d189.chunk.js",
+    "static/css/main.bc26b295.chunk.css",
+    "static/js/main.b14f3f31.chunk.js"
+  ]
+}

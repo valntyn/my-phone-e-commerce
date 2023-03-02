@@ -24,7 +24,7 @@ without the risk of introducing unintended styling conflicts or affecting the la
 # Functionality
 
 The application is designed to be responsive and adapt to different screen sizes, including desktop, tablet, and mobile devices.
-This is achieved through the use of responsive design techniques, such as media queries, flexible grid systems, and fluid layouts.
+This is achieved through the use of responsive design techniques, such as media queries and flexible grid systems.
 
 ![Adaptive](./src/readme-gifs/adaptive.gif)
 
@@ -59,7 +59,32 @@ There are some features. The application implements functions to simplify the se
 
 ## Product's details page
 
+- Selected product is saved in search parameters.
+- There is a choice of product options, color and capacity.
+- There is the ability to see each photo of the product.
+- Сarousel of products filtered to relevanted, where changing the resolution changes the scroll step.
 
+![details](./src/readme-gifs/details.gif)
+
+## Cart page
+
+- Quantity of products can be changed and removed from the cart.
+- The amount and quantity are calculated automatically.
+- Cart items are saved in the local storage.
+
+![cart](./src/readme-gifs/cart.gif)
+
+
+## Favorite page
+
+- Favorite items are saved in the local storage.
+- Choosen products changed and removed in the favorite page.
+
+# Additional features
+
+- Lazy loaders (to implement getting data from the server)
+- Loaders (skeleton and spinners to make user-friendly interface)
+- Redux-persist (to store data in local storage in modern way)
 
 
 

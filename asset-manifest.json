@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/my-phone-e-commerce/static/css/main.bceabc24.chunk.css",
-    "main.js": "/my-phone-e-commerce/static/js/main.d64a3dd0.chunk.js",
-    "main.js.map": "/my-phone-e-commerce/static/js/main.d64a3dd0.chunk.js.map",
+    "main.css": "/my-phone-e-commerce/static/css/main.6822ac40.chunk.css",
+    "main.js": "/my-phone-e-commerce/static/js/main.936e1f93.chunk.js",
+    "main.js.map": "/my-phone-e-commerce/static/js/main.936e1f93.chunk.js.map",
     "runtime-main.js": "/my-phone-e-commerce/static/js/runtime-main.29764a85.js",
     "runtime-main.js.map": "/my-phone-e-commerce/static/js/runtime-main.29764a85.js.map",
     "static/js/2.43bc2ea8.chunk.js": "/my-phone-e-commerce/static/js/2.43bc2ea8.chunk.js",
     "static/js/2.43bc2ea8.chunk.js.map": "/my-phone-e-commerce/static/js/2.43bc2ea8.chunk.js.map",
     "index.html": "/my-phone-e-commerce/index.html",
-    "static/css/main.bceabc24.chunk.css.map": "/my-phone-e-commerce/static/css/main.bceabc24.chunk.css.map",
+    "static/css/main.6822ac40.chunk.css.map": "/my-phone-e-commerce/static/css/main.6822ac40.chunk.css.map",
     "static/js/2.43bc2ea8.chunk.js.LICENSE.txt": "/my-phone-e-commerce/static/js/2.43bc2ea8.chunk.js.LICENSE.txt",
     "static/media/OptionsOnProductPage.scss": "/my-phone-e-commerce/static/media/heart.18a4d0a4.svg",
     "static/media/Navbar.scss": "/my-phone-e-commerce/static/media/Search.eb670dd9.svg",
@@ -25,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.29764a85.js",
     "static/js/2.43bc2ea8.chunk.js",
-    "static/css/main.bceabc24.chunk.css",
-    "static/js/main.d64a3dd0.chunk.js"
+    "static/css/main.6822ac40.chunk.css",
+    "static/js/main.936e1f93.chunk.js"
   ]
 }
